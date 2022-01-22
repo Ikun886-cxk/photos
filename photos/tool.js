@@ -2,7 +2,7 @@ const fs = require('fs-extra');
 const path = require('path');
 const imageSize = require('image-size');
  
-const rootPath="photos/"
+const rootPath="furry/"
  
 class PhotoExtension {
     constructor() {
